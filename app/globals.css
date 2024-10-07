@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+.szh-accordion__item-btn{
+    width: 100%;
+}
